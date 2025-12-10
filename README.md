@@ -95,4 +95,4 @@ Tela dedicada ao gerenciamento financeiro do usuário:
 ├── package-lock.json
 ├── package.json          
 └── README.md             
-├── navigation/   # Configices/     # Lógica de API e dados
+├── navigation/   
