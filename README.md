@@ -94,6 +94,5 @@ Tela dedicada ao gerenciamento financeiro do usuário:
 ├── index.js              
 ├── package-lock.json
 ├── package.json          
-└── README.md             # Documentação do projeto
-├── navigation/   # Configuração de rotas (AuthStack, AppTabs)
-└── services/     # Lógica de API e dados
+└── README.md             
+├── navigation/   # Configices/     # Lógica de API e dados
